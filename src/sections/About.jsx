@@ -25,7 +25,7 @@ function About() {
           variants={reveal}
           transition={{ delay: 0.1, stiffness: 300 }}
         >
-          <Title title="About CRYO" color="blue" />
+          <Title title="About Appondas" color="blue" />
           <p>
             We Believe that everyone deserves to have a website or online store.
             Innovation and simplicity make us happy. Our mission is to help
@@ -35,7 +35,7 @@ function About() {
             We are excited to simplify SEO for everyone through software,
             education, or cimmunity.
           </p>
-          <Button content="Why cryo?" />
+          <Button content="Why Appondas?" />
         </motion.div>
         <div className="cards" ref={element}>
           <Card

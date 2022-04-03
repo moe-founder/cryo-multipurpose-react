@@ -24,7 +24,7 @@ function Why() {
             duration: 1,
           }}
         >
-          <Title title="Why CRYO ?" color="pink" lineCenter={true} />
+          <Title title="Why Appondas ?" color="pink" lineCenter={true} />
           <div className="subTitle">
             <p>
               Always stay updated with the technologies thus we help our clients

@@ -31,7 +31,6 @@ export default function Starter() {
             mobile app development as well as in design.
           </p>
           <div className="button-container">
-            <Button content="Watch Video" icon={<GoPlay />} />
             <Button
               color="pink"
               content="Request Quote"
